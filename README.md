@@ -27,7 +27,7 @@ node app.js
 
 below requests are tested with postman agent
 
-post request using postman API:
+post request using postman agent:
 
 # for 3 messages 
 
